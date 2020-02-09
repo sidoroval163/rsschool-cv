@@ -19,3 +19,9 @@ const options =  {weekday: 'long'};
  if (today > daysoftheWeek ){return 'Сегодня'.bold() ;}
 else {return daysoftheWeek.toLocaleString("ru",options);}}
 ```
+## Experience ##
+I got task from EPAM recruiter (weather plugin design using JS+CSS+HTML) and comlete this.
+## Education ##
+2009-2014 Samara state technical university Engineering and Technology faculty.
+## English ##
+(A2)
